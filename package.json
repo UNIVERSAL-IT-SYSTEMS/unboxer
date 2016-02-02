@@ -21,6 +21,7 @@
   "homepage": "https://github.com/drom/unboxer#readme",
   "devDependencies": {
     "browserify": "^13.0.0",
+    "jsof": "^0.2.1",
     "onml": "^0.3.1",
     "yargs": "^3.32.0"
   }
