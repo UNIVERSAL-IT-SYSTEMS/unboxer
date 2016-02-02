@@ -1,0 +1,27 @@
+{
+  "name": "unboxer",
+  "version": "0.1.0",
+  "description": "Declarative SVG animator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/unboxer.git"
+  },
+  "keywords": [
+    "SVG"
+  ],
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/unboxer/issues"
+  },
+  "homepage": "https://github.com/drom/unboxer#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "onml": "^0.3.1",
+    "yargs": "^3.32.0"
+  }
+}
